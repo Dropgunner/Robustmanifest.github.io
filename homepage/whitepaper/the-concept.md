@@ -1,0 +1,12 @@
+# The concept
+
+robust manifest is a project to support the development of a remake project of a FOSS game called Spacestation 13. \
+10000 nfts are randomly generated with each nft based on different sprites in the common categories of a game character’s equipment, which then form the nft’s traits. Different traits have different rarity values which give some nft rait combinations more or less rarity. Based on the job roles in the game, the rarity of the items is staggered according to the number of roles in the respective areas of the game (Head of Department is rarest, Assistant traits most common ect...) The nfts are sold in a presale at 0.1 Eth each and are deployed on the Polygon chain to reduce gas costs in the minting process. Only after the minting of the presale the NFTs are randomly generated so that every participant gets a fair chance to get rare NFts. This is to avoid favoritism and to create an incentive to participate in the presale. The revenue will be used to either stoke the eth or to invest in safe defi products to generate a revenue stream that will sustainably finance the project. \
+\
+\
+\
+Subsequently, a non profit organization will be established to oversee the assets. The exact implementation of the non profit foundation will be explained in more detail in a separate paper. At this point it has to be mentioned that no implementation of NFts in the game is planned by the team. With the emergence of NFTs in games, an increasing rejection is observed within the game development community, who consider NFTs as scam and grift and therefore show a high aversion against them \
+\
+The funds generated from the sale of the NFTs will be placed in a decentralized finance (DeFi) pool and staked on the Ethereum blockchain, earning a 5 percent return. Alternatively, the project can choose from a wide range of other DeFi products to invest the funds. In the future, every NFT holder will have a vote to decide how the funds are used. There will be designated voting periods for bounties and decisions related to hiring developers. This democratic process is intended to foster an active community and provide value for holding the NFTs.&#x20;
+
+Furthermore, NFT holders will have the ability to mint additional NFTs in the future, such as 3D models of the artists generated from screenshots or 3D models of in-game assets. This feature will enable NFT holders to create unique and personalized digital assets, potentially increasing the value of their NFTs

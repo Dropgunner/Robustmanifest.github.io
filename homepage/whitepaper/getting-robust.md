@@ -1,0 +1,7 @@
+# Getting Robust
+
+In Robust Manifest, inspired by the game, players will have the opportunity to own unique digital assets that represent different crew members and departments aboard a space station. These NFTs will be divided into eight departments, each with its own set of responsibilities and areas of expertise. The departments will include security, engineering, medical, science, cargo, service, command, and atmospheric. In addition to the departments, there will also be four races that players can choose from: humans, lizards, felinids, and skeletons.
+
+To own an NFT representing a crew member in a specific department, a collector must possess at least one trait that is considered to belong to that department. These traits will be based on the skills and attributes necessary for each department to function properly, such as engineering or medical training. By requiring collectors to possess certain traits, the project encourages them to specialize in certain areas and to work together to accomplish their objectives, just like in the game.
+
+It's important to note that the departments represented in the NFT project mirror those found on real-life space stations. Collaboration and communication among collectors will be necessary to achieve success and complete missions. Each department plays an important role in the overall success of the space station, and owning an NFT representing a specific department will give collectors a unique role to play in the success of the project.
