@@ -1,4 +1,8 @@
-# Introduction
+---
+description: Introduction
+---
+
+# Whitepaper
 
 Over the past year, the NFT space has experienced exponential growth, with hundreds of projects now considered mature, having successfully launched their tokens and distributed them. While this may mark the end for some cynical projects, most are now focused on the challenge of maintaining the community that has formed around them. The technology behind NFTs is proven, with few remaining issues in im- plementation. Token contracts are simple derivatives of audited contracts, and computers perform as intended without error. The real challenge is leveraging the community that emerges around a successful offering. Each token holder has a mutual interest that binds them together. The value of NFT art is highly dependent on the context in which it exists, including its relationship to the rest of its set, its non-fungibility, and even its perceived value. While this is not that different from traditional art, there is a wealth of quantifiable data available to anyone evaluating an NFT. This data causes NFTs to behave more like financial instruments, and tokens that offer some sort of annuity blur the lines even further.\
 \
