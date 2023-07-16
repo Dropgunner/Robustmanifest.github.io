@@ -1,4 +1,4 @@
-# Our Project Page
+# Our Project
 
 * Robust Manifest NFTs:
   * "Our uniquely crafted NFTs are the driving force of this financial revolution. Own one and become a stakeholder in the SS13 remake universe!"
