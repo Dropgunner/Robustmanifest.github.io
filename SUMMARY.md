@@ -1,8 +1,6 @@
 # Table of contents
 
-* [robust manifest Webpage content](README.md)
-* [homepage](homepage/README.md)
-  * [Front Page](homepage/front-page.md)
+* [homepage](README.md)
   * [Our Project Page](homepage/our-project-page/README.md)
     * [Funding Open-source Remakes](homepage/our-project-page/funding-open-source-remakes.md)
   * [Whitepaper](homepage/whitepaper/README.md)
@@ -27,6 +25,7 @@
   * [About Us Page](homepage/about-us-page/README.md)
     * [Alternative](homepage/about-us-page/alternative.md)
   * [Page 6](homepage/page-6.md)
+  * [Front Page](homepage/front-page.md)
 * [Page 4](page-4.md)
 * [FAQs Page](faqs-page.md)
 * [Blog/News Page](blog-news-page.md)
